@@ -20,4 +20,6 @@ target/
 # Branch switching
 generated/
 
+*.zip
+
 **/.DS_Store
